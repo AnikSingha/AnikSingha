@@ -43,7 +43,7 @@
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnikSingha&theme=react" alt="AnikSingha" /></p>
 
-<div align="center">
+<div>
 <a href="https://github.com/AnikSingha">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnikSingha&theme=react" height="180em" />
 </div>
