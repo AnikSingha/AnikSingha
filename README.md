@@ -9,7 +9,7 @@
 </ul>
 
 <p>👨‍💻 All of my projects are available at <a href="https://www.aniksingha.com/">https://www.aniksingha.com/</a></p>
-<p>📄 Know about my experiences <a href="https://www.aniksingha.com/Anik-Singha-Resume.pdf">https://www.aniksingha.com/Anik-Singha-Resume.pdf</a></p>
+<p>📄 Know about my experiences <a href="https://www.aniksingha.com/Anik-Singha-Resume.pdf">Resume</a></p>
 
 
 
