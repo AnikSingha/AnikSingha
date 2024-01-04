@@ -5,7 +5,6 @@
   <li>🔭 I’m currently working on <a href="https://github.com/AnikSingha/Whisper-API">Whisper-API</a></li>
   <li>👯 I’m looking to collaborate on <a href="https://github.com/AnikSingha/chatApp">chatApp</a></li>
   <li>🌱 I’m currently learning <strong>Network protocols</strong></li>
-  <li>💬 Ask me about <strong>React, Flask, and DSA</strong></li>
 </ul>
 
 <p>👨‍💻 All of my projects are available at <a href="https://www.aniksingha.com/">https://www.aniksingha.com/</a></p>
