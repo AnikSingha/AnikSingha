@@ -33,14 +33,9 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
+<h3 align="left">Stats</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnikSingha&layout=compact&theme=react" alt=AnikSingha />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AnikSingha&show_icons=true&locale=en&theme=react" alt="AnikSingha" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnikSingha&theme=react" alt="AnikSingha" /></p>
-
-<div>
-<a href="https://github.com/AnikSingha">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnikSingha&theme=react" height="180em" />
-</div>
