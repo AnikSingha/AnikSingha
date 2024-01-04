@@ -45,5 +45,5 @@
 
 <div align="center">
 <a href="https://github.com/AnikSingha">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnikSingha&theme=react" height="180em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnikSingha&theme=react" height="180em" />
 </div>
