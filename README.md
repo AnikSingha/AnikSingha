@@ -38,5 +38,4 @@
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AnikSingha&show_icons=true&locale=en&theme=react" alt="AnikSingha" /></p>
 
-<p> <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aniksingha&theme=react" height="180em" /> 
 <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnikSingha&theme=react" alt="AnikSingha" /> </p>
