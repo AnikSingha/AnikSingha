@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anik</h1>
 <h3 align="center">A Junior at CUNY Hunter College</h3>
 <ul>
-  <li>🔭 I’m currently working on <a href="https://github.com/AnikSingha/Whisper-API">Whisper-API</a></li>
+  <li>🔭 I’m currently working on <a href="[https://github.com/AnikSingha/Whisper-API](https://github.com/AnikSingha/passManager)">Password Manager</a></li>
   <li>👯 I’m looking to collaborate on <a href="https://github.com/AnikSingha/chatApp">chatApp</a></li>
   <li>🌱 I’m currently learning <strong>Network protocols</strong></li>
 </ul>
