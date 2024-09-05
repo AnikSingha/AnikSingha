@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Anik</h1>
-<h3 align="center">A Junior at CUNY Hunter College</h3>
+<h3 align="center">A Senior at CUNY Hunter College</h3>
 <ul>
   <li>🔭 I’m currently working on a <a href="https://github.com/AnikSingha/passManager">Password Manager</a></li>
   <li>👯 I’m looking to collaborate on <a href="https://github.com/AnikSingha/chatApp">chatApp</a></li>
