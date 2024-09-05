@@ -36,6 +36,6 @@
 <h3 align="left">Stats</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnikSingha&layout=compact&theme=react" alt=AnikSingha />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=AnikSingha&show_icons=true&locale=en&theme=react" alt="AnikSingha" /></p>
+
 
 <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnikSingha&theme=react" alt="AnikSingha" /> </p>
