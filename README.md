@@ -1,13 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Anik</h1>
-<h3 align="center">A Senior at CUNY Hunter College</h3>
-<ul>
-  <li>🔭 I’m currently working on a <a href="https://github.com/AnikSingha/passManager">Password Manager</a></li>
-  <li>👯 I’m looking to collaborate on <a href="https://github.com/AnikSingha/chatApp">chatApp</a></li>
-  <li>🌱 I’m currently learning <strong>Network protocols</strong></li>
-</ul>
+<h3 align="center">Welcome to My Github Profile</h3>
 
-<p>👨‍💻 All of my projects are available at <a href="https://www.aniksingha.com/">https://www.aniksingha.com/</a></p>
+
+<p>👨‍💻 Visit my website <a href="https://www.aniksingha.com/">https://www.aniksingha.com/</a></p>
 <p>📄 Learn about my experiences <a href="https://www.aniksingha.com/Anik-Singha-Resume.pdf">Resume</a></p>
 
 
@@ -21,9 +17,9 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
+
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/go-original.svg" alt="Go" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
+
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/postgresql-original-wordmark.svg" alt="Postgresql" width="40" height="40"/>
